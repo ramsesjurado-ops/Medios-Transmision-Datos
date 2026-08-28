@@ -1,2 +1,55 @@
 # Medios-Transmision-Datos
 Repositorio sobre los medios de transmisión de datos.
+
+
+## Datos del estudiante
+
+**Nombre:** Ramses jurado
+**Cédula:** 4-834-1019
+## Introducción
+
+Los medios de transmisión de datos son los canales utilizados para transportar información de un dispositivo a otro dentro de una red.
+
+## Medios de transmisión guiados
+
+Los medios guiados utilizan un medio físico para transportar las señales.
+
+### Cable de par trenzado
+
+Es uno de los medios más utilizados en redes de computadoras. Está formado por pares de cables de cobre trenzados.
+
+### Cable coaxial
+
+Utiliza un conductor central, un material aislante y una cubierta metálica. Se utiliza para transmitir diferentes tipos de señales.
+
+### Fibra óptica
+
+Utiliza señales de luz para transmitir información. Permite altas velocidades y transmitir datos a largas distancias.
+
+## Medios de transmisión no guiados
+
+Los medios no guiados transmiten información sin utilizar un cable físico.
+
+### Ondas de radio
+
+Permiten transmitir información de manera inalámbrica y son utilizadas en diferentes sistemas de comunicación.
+
+### Microondas
+
+Utilizan ondas electromagnéticas para transmitir información, especialmente en comunicaciones a largas distancias.
+
+### Infrarrojo
+
+Utiliza ondas de luz infrarroja para transmitir información a distancias relativamente cortas.
+
+### Satélite
+
+Permite transmitir información a grandes distancias mediante satélites de comunicación.
+
+## Importancia de los medios de transmisión
+
+Los medios de transmisión son fundamentales para las redes y las telecomunicaciones, ya que permiten enviar información entre diferentes dispositivos. Los medios guiados ofrecen una conexión física, mientras que los medios no guiados permiten la comunicación inalámbrica.
+
+## Conclusión
+
+Los medios de transmisión de datos son esenciales para la comunicación moderna. Cada tipo tiene diferentes características y aplicaciones, por lo que su elección depende de las necesidades de la red y del tipo de comunicación que se desea realizar.

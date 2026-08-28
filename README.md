@@ -1,5 +1,5 @@
 # Medios-Transmision-Datos
-Repositorio sobre los medios de transmisión de datos.
+Repositorio académico dedicado al estudio y clasificación de los principales medios de transmisión de datos, incluyendo sus características, tipos y aplicaciones en las redes y telecomunicaciones.
 
 
 ## Datos del estudiante
